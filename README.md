@@ -5,4 +5,8 @@ I currently know java and only java.
   
 I have released one spigot plugin, SimpleCurrencies.  
   
-My discord is https://https://discord.gg/yq76UKS. Feel free to join!  
+My discord is https://https://discord.gg/yq76UKS. Feel free to join! 
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carthax08)](https://github.com/anuraghazra/github-readme-stats)
