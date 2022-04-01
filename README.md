@@ -5,7 +5,7 @@ I currently know java and I'm learning C#.
   
 I have released one spigot plugin, SimpleCurrencies.  
   
-My discord is https://https://discord.gg/yq76UKS. Feel free to join! 
+My discord is https://discord.gg/yq76UKS. Feel free to join! 
 
 
 
