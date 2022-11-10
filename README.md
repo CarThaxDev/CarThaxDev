@@ -1,5 +1,5 @@
 ### Hello There!
-I am a high school student currently making spigot/bukkit plugins and basically anything in C# for fun. I taught myself java about a year ago and have been obsessed ever since. Feel free to reach out to me via my discord server or email (carson.thackston@gmail.com) if you need to.  
+I am a high school student currently making spigot/bukkit plugins and basically anything in C# in my free time. I taught myself java about a year ago, and C#/Unity a little after that. Feel free to reach out to me via my discord server or email (carson.thackston@gmail.com) if you need to.  
   
 I currently know Java and C#
   
