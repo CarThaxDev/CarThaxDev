@@ -1,5 +1,5 @@
 ### Hello There!
-I am a current student and Thomas More University for their Computer Information Systems program. I taught myself Java a couple years ago, and C# not that long after. If you have any questions feel free to ask!
+I am a current student at Thomas More University for their Computer Information Systems program. I taught myself Java a couple years ago, and C# not that long after. If you have any questions feel free to ask!
   
 I currently know Java and C#
   
